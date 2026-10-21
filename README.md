@@ -43,3 +43,7 @@ Google Apps Script (JavaScript) · Gmail API (GmailApp) · Google Sheets · Time
 - Registrar status de resposta e tempo até a primeira resposta (indicador de SLA).
 - Dashboard no Looker Studio a partir da planilha.
 - Notificação para e-mails sem resposta após X horas.
+
+## Licença
+
+Distribuído sob a licença MIT. Veja [LICENSE](LICENSE).
